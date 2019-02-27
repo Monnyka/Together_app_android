@@ -56,7 +56,7 @@
 
     <EditText
         android:id="@+id/button"
-        android:layout_width="300dp"
+        android:layout_width="30dp"
         android:layout_height="40dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="56dp"
@@ -64,6 +64,7 @@
         android:background="@drawable/bg_textbox_rounded"
         android:fontFamily="@font/product_ans_regular"
         android:hint="@string/li_email_button"
+        android:autofillHints="sdadadad"
         android:textColorHint="#ffffff"
         android:textColor="#ffffff"
         android:textSize="17sp"
