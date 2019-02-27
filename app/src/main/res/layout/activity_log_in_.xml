@@ -7,7 +7,6 @@
 
     tools:context=".Log_in_Activity">
 
-
     <View
         android:id="@+id/view"
         android:layout_width="wrap_content"
