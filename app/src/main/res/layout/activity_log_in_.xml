@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
 
     tools:context=".Log_in_Activity">
-
+    //ToDo test
     <View
         android:id="@+id/view"
         android:layout_width="wrap_content"
