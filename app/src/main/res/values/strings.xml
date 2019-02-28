@@ -5,4 +5,5 @@
     <string name="li_email_button">Email</string>
     <string name="li_pwd_button">Password</string>
     <string name="Log_in_startButton">Start</string>
+    <string name="Log_in_link_register">Register Now</string>
 </resources>
